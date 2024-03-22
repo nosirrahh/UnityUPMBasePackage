@@ -1,0 +1,32 @@
+{
+  "name": "com.nosirrahh.[packagename]",
+  "displayName": "[PackageName]",
+  "version": "0.1.0",
+  "unity": "2021.4",
+  "description": "[...]",
+  "keywords": [
+    "",
+    ""
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "homepage": "https://github.com/nosirrahh/[packagename]#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nosirrahh/[packagename].git"
+  },
+  "documentationUrl": "https://github.com/nosirrahh/[packagename]#readme",
+  "changelogUrl": "https://github.com/nosirrahh/[packagename]/CHANGELOG.md",
+  "samples": [
+    {
+      "displayName": "[SampleName]",
+      "description": "",
+      "path": "Samples~/[SampleName]"
+    }
+  ],
+  "author": {
+    "name": "Harrison Dias",
+    "email": "nosirrahh@gmail.com",
+    "url": "https://github.com/nosirrahh/"
+  }
+}
