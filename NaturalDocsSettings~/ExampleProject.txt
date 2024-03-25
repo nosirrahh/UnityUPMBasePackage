@@ -1,0 +1,19 @@
+Format: 2.3
+
+# Project Information
+# ------------------------------------------------------------------------
+
+Title: [PackageName]
+Encoding: utf-8
+
+# Source Code
+# ------------------------------------------------------------------------
+
+Source Folder: ..\Runtime\
+    Name: Runtime
+
+# Generated Documentation
+# ------------------------------------------------------------------------
+
+HTML Output Folder: ..\Documentation~
+   Title: [PackageName]
