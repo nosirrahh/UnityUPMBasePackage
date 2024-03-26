@@ -17,3 +17,8 @@ Source Folder: ..\Runtime\
 
 HTML Output Folder: ..\Documentation~
    Title: [PackageName]
+
+# Global Settings
+# ------------------------------------------------------------------------
+
+Documented Only: yes
