@@ -10,13 +10,13 @@
   ],
   "dependencies": {},
   "license": "MIT",
-  "homepage": "https://github.com/nosirrahh/[packagename]#readme",
+  "homepage": "https://github.com/nosirrahh/[PackageName]/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nosirrahh/[packagename].git"
+    "url": "https://github.com/nosirrahh/[PackageName].git"
   },
-  "documentationUrl": "https://github.com/nosirrahh/[packagename]#readme",
-  "changelogUrl": "https://github.com/nosirrahh/[packagename]/CHANGELOG.md",
+  "documentationUrl": "https://github.com/nosirrahh/[PackageName]/",
+  "changelogUrl": "https://github.com/nosirrahh/[PackageName]/CHANGELOG.md",
   "samples": [
     {
       "displayName": "[SampleName]",
@@ -25,7 +25,7 @@
     }
   ],
   "author": {
-    "name": "Harrison Dias",
+    "name": "Squad",
     "email": "nosirrahh@gmail.com",
     "url": "https://github.com/nosirrahh/"
   }
